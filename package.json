@@ -1,7 +1,0 @@
-{  
-  "dependencies": {
-    "dropbox": "^10.34.0",
-    "export-to-csv": "^0.2.1",
-    "isomorphic-fetch": "^3.0.0"
-  }
-}
