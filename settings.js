@@ -1,4 +1,4 @@
-
+const token = require('./privateKeys');
 
 const settings = {
   token: token,
