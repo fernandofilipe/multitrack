@@ -13,6 +13,9 @@ Baixa músicas de uma repositório específico do Dropbox e salva em uma arquivo
 - OBRIGATÓRIO:
     Renomei o arquivo privateKeys_Example para privateKeys e coloque o token nele.
 
+- Baixar depedências:
+    execute npm install na pasta raíz (multitrack)
+
 - Como executar:
     Na pasta raiz do sistema (multitrack), execute o seguinte comando (via prompt de comando): 
         node index
